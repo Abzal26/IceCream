@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    border:"1px" soild blue;
+}
+
+.navbar-brand {
+    width: 8%;
+    padding: 20px;
+   padding-left: 10px;
+}
+
+.navbar {
+    background-color: rgb(148, 213, 241);
+}
+
+a.nav-link{
+    color: rgb(62, 59, 164);
+    font-weight: bold;
+    font-size: 15px;
+}
+.marnav
+{
+    background-color: rgb(247, 250, 247);
+}
+.bgimg {
+    background-image: url('https://img.freepik.com/premium-photo/two-girls-are-eating-ice-cream-park-one-them-has-blue-shirt_1230717-183118.jpg?ga=GA1.2.56348727.1721973226&semt=ais_hybrid');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 216vh;
+    height: 80vh;
+}
+
+.btn1 {
+    width: 10%;
+    padding: 3px;
+}
+.apara {
+    color: rgb(167, 160, 160);
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
+.d-block
+{
+    aspect-ratio: 3/2;
+    width:100%;
+}
+/*products*/
+.card-title{
+    color: rgb(0, 128, 60);
+   
+   /* text-align: center;*/
+}
+.card-text{
+    color: rgb(242, 8, 47);
+   
+    /* text-align: center;*/
+}
+.space div{
+    border:10px solid white
+}
+/*payment*/
+.input-group-text{
+    background-color: brown;
+    color:antiquewhite;
+    font-weight: bold;
+    font-size: 20px;
+}
